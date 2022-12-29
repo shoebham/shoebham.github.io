@@ -2,7 +2,7 @@
 
 
 <a href="style.css">style.css</a> 
-# shubh.space
+# shubhwym.me
 
 Welcome fellow human, to my website.
 It might look like there isn't much here, there isn't.
@@ -13,9 +13,9 @@ This websites design was taken from emile.space(a site I came across and really 
 
 getting started pages:
 
-- <a href="https://shubh.space/blog">blog</a> my blog
-
+- <a href="https://shubhwym.me/blog">blog</a> my blog
+- 
 ## services
 
-- <a href="https://shubh.space">shubh.space</a> this page
+- <a href="https://shubhwym.me">shubhwym.me</a> this page
 

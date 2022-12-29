@@ -6,7 +6,7 @@ I'm Shubham.
 
 ## Contact
 
-I'm reachable using the nickname @shubhwym or @shoebham (whichevers available, i know both are lame but i am sorry i lack creativity) on most platforms. From a social media perspective, I occasionally look into the following platforms:
+I'm reachable using the nickname @shubhwym or @shoebham (whichevers available, i know both are lame but i am sorry i lack creativity) on most platforms. Below are some of my social media handles
 
 - <a href="https://twitter.com/shubhwym">twitter</a>
 - <a href="https://linkedin.com/in/shoebham">LinkedIn</a>
@@ -15,15 +15,14 @@ I'm reachable using the nickname @shubhwym or @shoebham (whichevers available, i
 
 Another way to reach me is by email:
 
-- <a href="mailto:shubh@shubh.space">mail@shubh.space</a>
-
+- <a href="mailto:shubh@shubhwym.me">mail@shubhwym.me</a>
 
 ## Doings
 
 Not A lot.
 There's so many things in computer science and I want to explore everything.
 I generally like to learn new things, and I'm currently learning:
-- <a href="https://www.go.dev">go</a>
+- <a href="https://www.go.dev">Go</a>
 - <a href="https://www.rust-lang.org">Rust</a>
 - <a href="https.//nodejs.com">Node.js</a>
 

@@ -14,7 +14,7 @@ This websites design was taken from emile.space(a site I came across and really 
 getting started pages:
 
 - <a href="https://shubhwym.me/blog">blog</a> my blog
-- 
+
 ## services
 
 - <a href="https://shubhwym.me">shubhwym.me</a> this page

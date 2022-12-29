@@ -47,8 +47,5 @@ Masters of Computer Applications at <a href="https://www.spit.ac.in">Sardar Pate
 
 ### work
 
-<a href="https://www.nomura.com/">Nomura</a>
-  - 01-2023 - now
-    - Not started yet.
 
 

@@ -2,11 +2,10 @@
 # 2023 Plan
 
 Still haven't figured out stuff that I want to do. 
-There's so many things I don't know about, I don't know what I want to do.
-I want to learn more about the world, I want to learn more about myself.
+There's so many things I don't know about.
+I want to learn more about the world & myself.
 
 For now my plan for 2023 includes
-
 - Figure out life & stuff [this is the most complex]
 - Write more
 - Read more
@@ -20,8 +19,7 @@ For now my plan for 2023 includes
 - finance
 
 ### books on my list
-- Fountainhead [currently reading]
-- 
+
 
 
 

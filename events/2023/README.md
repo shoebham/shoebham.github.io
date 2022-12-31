@@ -18,8 +18,10 @@ For now my plan for 2023 includes
 - design
 - finance
 
-### books on my list
-
+### books I hope to finish this year
+- thinking fast and slow
+- 1984
+- The Pragmatic Programmer
 
 
 

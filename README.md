@@ -15,6 +15,7 @@ getting started pages:
 
 - <a href="https://shubhwym.me/blog">blog</a> my blog
 - <a href="https://shubhwym.me/projects"> projects</a>
+- <a href="https://shubhwym.me/events">events</a>
 
 ## services
 

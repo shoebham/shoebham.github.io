@@ -14,6 +14,7 @@ This websites design was taken from <a href="https://emile.space">emile.space</a
 getting started pages:
 
 - <a href="https://shubhwym.me/blog">blog</a> my blog
+- <a href="https://shubhwym.me/projects"> projects</a>
 
 ## services
 

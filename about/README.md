@@ -46,6 +46,7 @@ Masters of Computer Applications at <a href="https://www.spit.ac.in">Sardar Pate
   - 2020 - 2022
 
 ### work
-
+Software developer at <a href="https://www.nomura.com/">Nomura</a>
+  - 2022 - Now
 
 

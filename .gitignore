@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+!lib/dist
+lib/dist/style.css
+*.local
+editor/test

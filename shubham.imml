@@ -1,0 +1,86 @@
+$title: shubham
+$description: my personal site
+
+
+[home]
+ # Home 
+ this is my personal site, it is somewhat empty. I'll fill this later. 
+
+
+    [resume(resume)]
+        # Career
+
+            Work
+        ---            
+        > Software Developer
+         [Nomura](https://www.nomura.com/) (mumbai)
+        2023-Current
+
+        > Android Intern 
+        [Bobble Ai](https://bobble.ai/en/home) (gurgaon)
+        Jan 2022 - Jun 2022
+
+            College 
+        ---
+        > Masters of Computer Application 
+        [Sardar Patel Institute of Technology](https://www.spit.ac.in/) (mumbai)
+        2020-2022
+
+        
+        > Bachelors of Computer Application 
+        [St. Xavier's ](https://sxcjpr.edu.in/) (jaipur)
+        2017-2020
+
+        Trying to do better everyday
+
+    [projects(projects)]
+        # Projects <span style="float: right; font-size: 0.5em;margin-top:1.8em;">[Github](https://github.com/shoebham/)</span>
+        ---
+
+        I mostly try to complete side projects whenver i can. Making projects is fun as you get to learn a lot while implemnting them
+
+        Some of my completed projects are
+        
+        | name | tech | info |
+        | ---- | ---- | ---- |
+        | [text to isl](https://github.com/shoebham/text_to_isl) | `python` `nlp` `javascript` | Converts text to sign language through animation. <sub>This project recieves a lot of attention from college students.|
+        | [bRAG-ollama](https://github.com/shoebham/bRAG-ollama) | `python` `LLM` | Made this just to explore RAG and LLMs without any framework like langchain |
+        | [fact check search](https://github.com/shoebham/Fact_check_Search) | `android` `java` | my very first project that got me my first internship | 
+
+        I need to make more intersting projects.
+
+        Other projects, that i can remember:
+
+        | name | tech |
+        | ---- | ---- |
+        |[splitwise-backend](https://github.com/shoebham/splitwise-clone-backend) <sub> <span style="color:lightgreen">`WIP`</span></sub>| `go`
+        |[SmartSplit](https://github.com/shoebham/smartsplit)| `android` `java`
+        |[aqi2ciggs](https://shubhwym.me/aqi2ciggs/) | `js`
+        |[countdown timer](https://shoebham.github.io/countdown-timer/) | `js`
+        |[memory game](https://shoebham.github.io/memory-game/) | `react`
+        |[shopping cart](https://shoebham.github.io/Shopping-cart/) | `react`
+        |[to do list](https://shoebham.github.io/Todo-List/) | `js`
+        |[restaurant Page](https://shoebham.github.io/RESTAURANT-PAGE/) | `js`
+        |[tic-tac-toe](https://shoebham.github.io/tic-tac-toe/) | `js`
+        |[library](https://shoebham.github.io/Library) | `js`
+        |[weather App](https://shoebham.github.io/Weather-App/) | `js`
+        |[etch a sketch](https://shoebham.github.io/etch-a-sketch/) | `js`
+        |[calculator-js](https://shoebham.github.io/Calculator_Javascript/) | `js`
+        |[calculator-android](https://github.com/shoebham/Calculator_android) | `android` `java`
+        |[ruby-projects](https://github.com/shoebham/Ruby_Projects_the_odin_project) | `ruby`
+        
+    ---  
+    last updated: $date 
+
+    Email: me@<nolink>shubhwym.me
+    [Github](https://github.com/shoebham/)
+    
+    <sub><sup>Made with [imml](https://github.com/leoncvlt/imml/)
+    </span>
+$style:
+    
+    a.external:after {
+        content: " ↗";
+    }
+
+    </style>

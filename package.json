@@ -1,0 +1,44 @@
+{
+  "name": "imml",
+  "version": "1.0.3",
+  "description": "Create minimalist, blazing fast no-js websites from a single plain text file",
+  "scripts": {
+    "start": "vite ./editor",
+    "imml": "node ./lib/make.js",
+    "build-editor": "vite build ./editor",
+    "build-library": "vite build ./lib"
+  },
+  "author": "Leonardo Cavaletti (http://github.com/leoncvlt)",
+  "repository": "https://github.com/leoncvlt/imml",
+  "funding": "https://www.buymeacoffee.com/leoncvlt",
+  "license": "MIT",
+  "keywords": [
+    "markdown",
+    "parse",
+    "static",
+    "site",
+    "generator"
+  ],
+  "devDependencies": {
+    "commander": "^10.0.1",
+    "html-minifier-terser": "^7.1.0",
+    "jsdom": "^22.1.0",
+    "monaco-editor": "^0.40.0",
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "marked": "^13.0.1"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "./lib/dist/imml.umd.js",
+  "module": "./lib/dist/imml.es.js",
+  "exports": {
+    ".": {
+      "import": "./lib/dist/imml.es.js",
+      "require": "./lib/dist/imml.umd.js"
+    }
+  },
+  "bin": "./lib/make.js"
+}

@@ -43,8 +43,8 @@ $description: my personal site
         
         | name | tech | info |
         | ---- | ---- | ---- |
-        | [text to isl](https://github.com/shoebham/text_to_isl) | `python` `nlp` `javascript` | Converts text to sign language through animation. <sub>This project recieves a lot of attention from college students.|
-        | [bRAG-ollama](https://github.com/shoebham/bRAG-ollama) | `python` `LLM` | Made this just to explore RAG and LLMs without any framework like langchain |
+        | [text to isl](https://github.com/shoebham/text_to_isl) | `python` `nlp` `javascript` | converts text to sign language through animation. <sub>this project recieves a lot of attention from college students.|
+        | [bRAG-ollama](https://github.com/shoebham/bRAG-ollama) | `python` `LLM` | made this just to explore RAG and LLMs without any framework like langchain |
         | [fact check search](https://github.com/shoebham/Fact_check_Search) | `android` `java` | my very first project that got me my first internship | 
 
         I need to make more intersting projects.
@@ -53,6 +53,7 @@ $description: my personal site
 
         | name | tech |
         | ---- | ---- |
+        |[exdrw-xtnsn](#exdrw-xtnsn)| `js`
         |[splitwise-backend](https://github.com/shoebham/splitwise-clone-backend) <sub> <span style="color:lightgreen">`WIP`</span></sub>| `go`
         |[SmartSplit](https://github.com/shoebham/smartsplit)| `android` `java`
         |[aqi2ciggs](https://shubhwym.me/aqi2ciggs/) | `js`
@@ -69,7 +70,22 @@ $description: my personal site
         |[calculator-android](https://github.com/shoebham/Calculator_android) | `android` `java`
         |[ruby-projects](https://github.com/shoebham/Ruby_Projects_the_odin_project) | `ruby`
         
-    ---  
+    --- 
+    [[exdrw-xtnsn(exdrw-xtnsn)]]
+        # Excalidraw in New Tab extension
+        
+        I got bored looking at the usual new tab screen and wanted it to be a space where I can actually see things I want to see like my pending tasks.
+
+        So I generated this extension with claude sonnet. I didn't write a single piece of code for this. Works pretty well. Amazing!
+
+
+        if you want to use it locally, just 
+        - Clone this 
+        - Open Chrome and go to chrome://extensions/.
+        - Enable "Developer mode" in the top right corner.
+        - Click "Load unpacked" and select the directory containing your extension files.
+        
+        [Project Link](https://github.com/shoebham/exdrw-xtnsn)
     last updated: $date 
 
     Email: me@<nolink>shubhwym.me

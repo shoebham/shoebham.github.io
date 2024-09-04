@@ -70,7 +70,7 @@ $description: my personal site
         |[calculator-android](https://github.com/shoebham/Calculator_android) | `android` `java`
         |[ruby-projects](https://github.com/shoebham/Ruby_Projects_the_odin_project) | `ruby`
         
-    --- 
+
     [[exdrw-xtnsn(exdrw-xtnsn)]]
         # Excalidraw in New Tab extension
         
@@ -86,6 +86,60 @@ $description: my personal site
         - Click "Load unpacked" and select the directory containing your extension files.
         
         [Project Link](https://github.com/shoebham/exdrw-xtnsn)
+    
+
+    [[tnc-summarizer(tnc-summarizer)]]
+        # Terms & Conditions Summarizer
+        
+        if you want to use it locally, just 
+        - Clone this 
+        - Open Chrome and go to chrome://extensions/.
+        - Enable "Developer mode" in the top right corner.
+        - Click "Load unpacked" and select the directory containing your extension files.
+    
+    [[tnc-summarizer-privacy-policy(tnc-summarizer-privacy-policy)]]
+        # Privacy Policy for T&C Summarizer Chrome Extension
+        Last Updated: 4th Sept 2024
+
+        1. Introduction
+            T&C Summarizer is a Chrome extension designed to summarize Terms and Conditions (T&C) using AI technology. We are committed to protecting your privacy and handling any personal information we obtain from you with care and respect. This Privacy Policy is intended to inform you about the information we collect, how we use it, and the choices you have regarding our use of this information.
+
+        2. Information We Collect
+            2.1 User-Provided Information:
+            - We do not collect any personal information directly from users.
+
+            2.2 Automatically Collected Information:
+            - URLs of websites you visit (only to detect and fetch T&C content)
+            - Content of Terms and Conditions pages you choose to summarize
+
+            2.3 OpenAI API:
+            - The text content of T&C pages is sent to OpenAI's API for summarization.
+
+        3. How We Use Your Information
+            - To provide the core functionality of summarizing T&C content
+            - To improve and optimize the performance of our extension
+            - To comply with legal obligations
+
+        4. Data Storage
+            - Summarized T&C content is stored locally in your browser using Chrome's storage API.
+            - We do not store any user data on our servers.
+
+        5. Data Sharing
+            We do not sell, trade, or otherwise transfer your information to outside parties. The only exception is OpenAI, to which we send T&C content for summarization purposes.
+
+        6. Security
+            We implement a variety of security measures to maintain the safety of your information. However, no method of transmission over the Internet or electronic storage is 100% secure.
+
+        7. Your Choices
+            You can choose not to use our extension if you do not agree with this policy. You can also uninstall the extension at any time, which will remove all locally stored data associated with the extension.
+
+        8. Changes to This Privacy Policy
+            We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Chrome Web Store. You are advised to review this Privacy Policy periodically for any changes.
+
+        9. Contact Us
+            If you have any questions about this Privacy Policy, please contact us at me@shubhwym.me
+
+    ---
     last updated: $date 
 
     Email: me@<nolink>shubhwym.me

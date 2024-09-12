@@ -53,7 +53,7 @@ $description: my personal site
 
         | name | tech |
         | ---- | ---- |
-        |[T&C Summarizer](#TnC-summarizer)| `js`
+        |[T&C Summarizer](#tnc-summarizer)| `js`
         |[exdrw-xtnsn](#exdrw-xtnsn)| `js`
         |[splitwise-backend](https://github.com/shoebham/splitwise-clone-backend) <sub> <span style="color:lightgreen">`WIP`</span></sub>| `go`
         |[SmartSplit](https://github.com/shoebham/smartsplit)| `android` `java`

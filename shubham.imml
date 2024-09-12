@@ -53,6 +53,7 @@ $description: my personal site
 
         | name | tech |
         | ---- | ---- |
+        |[T&C Summarizer](#TnC-summarizer)| `js`
         |[exdrw-xtnsn](#exdrw-xtnsn)| `js`
         |[splitwise-backend](https://github.com/shoebham/splitwise-clone-backend) <sub> <span style="color:lightgreen">`WIP`</span></sub>| `go`
         |[SmartSplit](https://github.com/shoebham/smartsplit)| `android` `java`
@@ -86,17 +87,16 @@ $description: my personal site
         - Click "Load unpacked" and select the directory containing your extension files.
         
         [Project Link](https://github.com/shoebham/exdrw-xtnsn)
-    
+        [Extension Link](https://chromewebstore.google.com/detail/excalidraw-in-new-tab/fpcbhgoiombfijahddnneadpggeoeodp) 
 
     [[tnc-summarizer(tnc-summarizer)]]
         # Terms & Conditions Summarizer
         
-        if you want to use it locally, just 
-        - Clone this 
-        - Open Chrome and go to chrome://extensions/.
-        - Enable "Developer mode" in the top right corner.
-        - Click "Load unpacked" and select the directory containing your extension files.
-    
+        After reading the recent news Disney where a man couldn't go to court because he bought Disney+.
+        I made an extension with assistance from cursor (or cursor created this extension with my assistance) to summarise t&c of the website you're visiting.
+ 
+        [Extension Link](https://chromewebstore.google.com/detail/tc-summarizer/kjdfigamffjlifkmonlkhefbdiplebjh)
+   
     [[tnc-summarizer-privacy-policy(tnc-summarizer-privacy-policy)]]
         # Privacy Policy for T&C Summarizer Chrome Extension
         Last Updated: 4th Sept 2024

@@ -43,8 +43,9 @@ $description: my personal site
         
         | name | tech | info |
         | ---- | ---- | ---- |
+        | [resume-ai](https://shubhwym.me/resume-ai) | `python` `openai` `pinecone`
         | [text to isl](https://github.com/shoebham/text_to_isl) | `python` `nlp` `javascript` | converts text to sign language through animation. <sub>this project recieves a lot of attention from college students.|
-        | [bRAG-ollama](https://github.com/shoebham/bRAG-ollama) | `python` `LLM` | made this just to explore RAG and LLMs without any framework like langchain |
+        | [bRAG-ollama](https://github.com/shoebham/bRAG-ollama) | `python` `llm` | made this just to explore RAG and LLMs without any framework like langchain |
         | [fact check search](https://github.com/shoebham/Fact_check_Search) | `android` `java` | my very first project that got me my first internship | 
 
         I need to make more intersting projects.
@@ -53,7 +54,7 @@ $description: my personal site
 
         | name | tech |
         | ---- | ---- |
-        |[T&C Summarizer](#TnC-summarizer)| `js`
+        |[T&C Summarizer](#tnc-summarizer)| `js`
         |[exdrw-xtnsn](#exdrw-xtnsn)| `js`
         |[splitwise-backend](https://github.com/shoebham/splitwise-clone-backend) <sub> <span style="color:lightgreen">`WIP`</span></sub>| `go`
         |[SmartSplit](https://github.com/shoebham/smartsplit)| `android` `java`

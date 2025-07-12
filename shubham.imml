@@ -4,7 +4,7 @@ $description: my personal site
 
 [home]
  # Home 
- this is my personal site, it is somewhat empty. I'll fill this later. 
+ this is my empty home.  
 
 
     [resume(resume)]
@@ -12,7 +12,7 @@ $description: my personal site
 
             Work
         ---            
-        > Software Developer
+        > Senior Software Developer
          [Nomura](https://www.nomura.com/) (mumbai)
         2023-Current
 
@@ -23,54 +23,33 @@ $description: my personal site
             College 
         ---
         > Masters of Computer Application 
-        [Sardar Patel Institute of Technology](https://www.spit.ac.in/) (mumbai)
+        [Sardar Patel Institute of Technology] (mumbai)
         2020-2022
 
-        
-        > Bachelors of Computer Application 
-        [St. Xavier's ](https://sxcjpr.edu.in/) (jaipur)
-        2017-2020
-
+     
         Trying to do better everyday
 
     [projects(projects)]
         # Projects <span style="float: right; font-size: 0.5em;margin-top:1.8em;">[Github](https://github.com/shoebham/)</span>
         ---
+        i mostly try to complete side projects whenever i can.
+        making projects is fun as you get to learn a lot while implemnting them
 
-        I mostly try to complete side projects whenver i can. Making projects is fun as you get to learn a lot while implemnting them
-
-        Some of my completed projects are
+        some of my completed projects are
         
         | name | tech | info |
         | ---- | ---- | ---- |
-        | [resume-ai](https://shubhwym.me/resume-ai) | `python` `openai` `pinecone`
+        | [gaddhe](https:// gaddhe.xyz) | `next.js` `cloudflare` `node.js` | a map where users can upload geotagged photos of potholes |
+        | [resume-ai](https://shubhwym.me/resume-ai) | `python` `openai` `pinecone` | a website where users can chat with my resume | 
         | [text to isl](https://github.com/shoebham/text_to_isl) | `python` `nlp` `javascript` | converts text to sign language through animation. <sub>this project recieves a lot of attention from college students.|
-        | [bRAG-ollama](https://github.com/shoebham/bRAG-ollama) | `python` `llm` | made this just to explore RAG and LLMs without any framework like langchain |
         | [fact check search](https://github.com/shoebham/Fact_check_Search) | `android` `java` | my very first project that got me my first internship | 
-
-        I need to make more intersting projects.
-
-        Other projects, that i can remember:
-
-        | name | tech |
-        | ---- | ---- |
-        |[T&C Summarizer](#tnc-summarizer)| `js`
-        |[exdrw-xtnsn](#exdrw-xtnsn)| `js`
-        |[splitwise-backend](https://github.com/shoebham/splitwise-clone-backend) <sub> <span style="color:lightgreen">`WIP`</span></sub>| `go`
-        |[SmartSplit](https://github.com/shoebham/smartsplit)| `android` `java`
-        |[aqi2ciggs](https://shubhwym.me/aqi2ciggs/) | `js`
-        |[countdown timer](https://shoebham.github.io/countdown-timer/) | `js`
-        |[memory game](https://shoebham.github.io/memory-game/) | `react`
-        |[shopping cart](https://shoebham.github.io/Shopping-cart/) | `react`
-        |[to do list](https://shoebham.github.io/Todo-List/) | `js`
-        |[restaurant Page](https://shoebham.github.io/RESTAURANT-PAGE/) | `js`
-        |[tic-tac-toe](https://shoebham.github.io/tic-tac-toe/) | `js`
-        |[library](https://shoebham.github.io/Library) | `js`
-        |[weather App](https://shoebham.github.io/Weather-App/) | `js`
-        |[etch a sketch](https://shoebham.github.io/etch-a-sketch/) | `js`
-        |[calculator-js](https://shoebham.github.io/Calculator_Javascript/) | `js`
-        |[calculator-android](https://github.com/shoebham/Calculator_android) | `android` `java`
-        |[ruby-projects](https://github.com/shoebham/Ruby_Projects_the_odin_project) | `ruby`
+        | [exdrw-xtnsn](#exdrw-xtnsn)| `js` | chrome extension that opens a local excalidraw window instead of the usual new tab |
+        | [tnc summarizer](#tnc-summarizer)| `js` | chrome extension that shows a summary of the terms and conditon of any website using AI|
+        | [bRAG-ollama](https://github.com/shoebham/bRAG-ollama) | `python` `llm` | made this just to explore RAG and LLMs without any framework like langchain |
+        | [smartsplit](https://github.com/shoebham/smartsplit)| `android` `java` | splitwise alternative for android |
+        | [aqi2ciggs](https://shubhwym.me/aqi2ciggs/) | `js` | website that shows the equivalent cigg smoked for the current AQI | 
+        | [weather app](https://shoebham.github.io/Weather-App/) | `js` | weather app |
+        | [ruby-projects](https://github.com/shoebham/Ruby_Projects_the_odin_project) | `ruby` | bunch of small ruby projects i made way back when i was learning ruby |
         
 
     [[exdrw-xtnsn(exdrw-xtnsn)]]

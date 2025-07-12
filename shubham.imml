@@ -39,7 +39,7 @@ $description: my personal site
         
         | name | tech | info |
         | ---- | ---- | ---- |
-        | [gaddhe](https:// gaddhe.xyz) | `next.js` `cloudflare` `node.js` | a map where users can upload geotagged photos of potholes |
+        | [gaddhe](https://gaddhe.xyz) | `next.js` `cloudflare` `node.js` | a map where users can upload geotagged photos of potholes |
         | [resume-ai](https://shubhwym.me/resume-ai) | `python` `openai` `pinecone` | a website where users can chat with my resume | 
         | [text to isl](https://github.com/shoebham/text_to_isl) | `python` `nlp` `javascript` | converts text to sign language through animation. <sub>this project recieves a lot of attention from college students.|
         | [fact check search](https://github.com/shoebham/Fact_check_Search) | `android` `java` | my very first project that got me my first internship | 
